@@ -1,5 +1,5 @@
 # UNIVERSAL HWID SPOOFER Evicted
----
+
 ![344](https://github.com/user-attachments/assets/7cacc97d-cda8-401a-8028-98699ded055c)
 ![3444](https://github.com/user-attachments/assets/eb04602c-8eba-4f78-88ce-819c3cc92d81)
 
@@ -15,6 +15,14 @@ Tested With:
 ⭐XIGNCODE3 
 ⭐GameGuard 
 ⭐nProtect GameGuard ⭐
+---
+## Technical Specifications
+- **Supported Operating Systems**:
+  - Windows 10 (1903-24H2)
+  - Windows 11 (21H2-24H2)
+- **Processor Compatibility**:
+  - Intel
+  - AMD
 ---
 ## How to Use
 1. **Download:** (https://github.com/mebfudYYY/UNIVERSAL-HWID-SPOOFER-EAC-BE-VANGUARD-VAC/releases/download/latest/34_HWIDSpoofer.zip).
